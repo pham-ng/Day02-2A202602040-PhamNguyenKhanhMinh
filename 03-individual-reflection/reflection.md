@@ -60,6 +60,6 @@ Những bài học ý nghĩa nhất em rút ra được bao gồm:
 
 1. **Tránh tâm lý phụ thuộc vào Agent tự động:** Một giải pháp AI hiệu quả trong vận hành không nhất thiết phải thay thế hoàn toàn con người. Mô hình **Workflow** hỗ trợ giảm bớt các thao tác lặp đi lặp lại (đọc, phân loại, soạn thảo mẫu), giúp con người tập trung vào các quyết định quan trọng nhất (kiểm duyệt, phê duyệt và xử lý các trường hợp khẩn cấp)
 2. **Quyết định dựa trên thực tế (Evidence-based Decision):** Không nên vội vã triển khai chính thức khi các giả định chưa được kiểm chứng. Việc lựa chọn phương án "Thử nghiệm nhỏ" giúp nhóm vừa xác minh được tỷ lệ ticket trùng lặp thực tế, vừa xây dựng được hàng rào an toàn bảo vệ trải nghiệm của học viên
-3. **Giá trị của tinh thần phản biện:** Những câu hỏi thẳng thắn trong quá trình làm việc nhóm — như *"Nếu AI phân loại sai ticket khẩn cấp thì hậu quả ra sao?"* hay *"Có giải pháp đơn giản hơn mà không cần dùng AI không?"* — chính là yếu tố giúp bài toán của nhóm trở nên thực tế và chặt chẽ hơn
+3. **Tinh thần phản biện:** trong quá trình làm việc nhóm, có những câu hỏi như *"Nếu AI phân loại sai ticket khẩn cấp thì hậu quả ra sao?"* hay *"Có giải pháp đơn giản hơn mà không cần dùng AI không?"* —  giúp bài toán của nhóm và suy nghĩ của em trở nên thực tế và chặt chẽ hơn
 
 Trong các bài tập và dự án tiếp theo, em sẽ tiếp tục duy trì tư duy "Problem-First", ưu tiên xác minh dữ liệu thực tế trước khi lựa chọn công nghệ, và luôn thiết kế ranh giới kiểm duyệt minh bạch cho mọi ứng dụng AI
